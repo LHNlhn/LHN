@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "\\name{MYKS}\n\\alias{centers}\n\\title{k-modes algorithm}\n\\usage{\nhello()\n}\n\\description{\nPrints\"更新后的聚类中心\"\n}\n\\examples{\nnj\n}\n",
+    "created" : 1460813202399.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "527097359",
+    "id" : "B0ABF190",
+    "lastKnownWriteTime" : 1458610817,
+    "last_content_update" : 1458610817,
+    "path" : "~/MYKS/man/MYKS.Rd",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}
